@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://machinerisk.dokufolio.com/sitemap.xml
